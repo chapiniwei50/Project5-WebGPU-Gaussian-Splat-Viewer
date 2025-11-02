@@ -7,9 +7,7 @@
   Windows 11, i7-13700K @ 5.4GHz 32GB, RTX 4080 16GB (Personal Machine)
 
 ### Live Demo
-
-[View Live Project]([https://chapiniwei50.github.io/Project5-WebGPU-Gaussian-Splat-Viewer/])
-
+https://chapiniwei50.github.io/Project5-WebGPU-Gaussian-Splat-Viewer/
 ### Demo Video/GIF
 
 https://youtu.be/IgWtlDe2ayY
