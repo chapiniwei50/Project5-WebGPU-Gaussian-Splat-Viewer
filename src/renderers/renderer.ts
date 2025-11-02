@@ -83,7 +83,9 @@ export default async function init(
     .on('change', async (file) => {
       const uploadedFile = file.value;
       if (uploadedFile) {
-        const pc = await load(uploadedFile, device);
+          const pc = await load(uploadedFile, device);
+          console.log("sh_deg =", pc.sh_deg);
+
         pointcloud_renderer = get_renderer_pointcloud(pc, device, presentation_format, camera.uniform_buffer);
         gaussian_renderer = get_renderer_gaussian(pc, device, presentation_format, camera.uniform_buffer);
         renderers = {
