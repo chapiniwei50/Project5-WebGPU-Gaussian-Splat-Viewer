@@ -8,7 +8,7 @@
 
 ### Live Demo
 
-[View Live Project](https://YOUR_USERNAME.github.io/Project5-WebGPU-Gaussian-Splat-Viewer)
+[View Live Project]([https://chapiniwei50.github.io/Project5-WebGPU-Gaussian-Splat-Viewer/])
 
 ### Demo Video/GIF
 
